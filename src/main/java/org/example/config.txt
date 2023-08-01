@@ -1,0 +1,5 @@
++ Summation
+- Subtraction
+/ Division
+* Multiplication
+
