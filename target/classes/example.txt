@@ -1,0 +1,8 @@
+DEFINE a 4
+DEFINE b 5 c 6 d 8 g 2
+PUSH a
+PUSH b c d g
++
+-
+*
+PRINT
